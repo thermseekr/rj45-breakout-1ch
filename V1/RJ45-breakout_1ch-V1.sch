@@ -1,0 +1,96 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Screw_Terminal_01x04 J2
+U 1 1 606EC184
+P 6400 3900
+F 0 "J2" H 6550 3900 50  0000 C CNN
+F 1 "Screw_Terminal_01x04" H 6900 3800 50  0000 C CNN
+F 2 "Tales:TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal" H 6400 3900 50  0001 C CNN
+F 3 "~" H 6400 3900 50  0001 C CNN
+F 4 "~" H 6400 3900 50  0001 C CNN "Case"
+F 5 "Metaltex" H 6400 3900 50  0001 C CNN "Mfr"
+F 6 "2x BR902V" H 6400 3900 50  0001 C CNN "Mfr PN"
+F 7 "Eletropecas" H 6400 3900 50  0001 C CNN "Vendor"
+F 8 "2x 29273" H 6400 3900 50  0001 C CNN "Vendor PN"
+F 9 "~" H 6400 3900 50  0001 C CNN "JLCPCB BOM"
+F 10 "~" H 6400 3900 50  0001 C CNN "LCSC Part"
+	1    6400 3900
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5400 4400 5550 4400
+Wire Wire Line
+	5550 4400 5550 4300
+Wire Wire Line
+	5550 4300 5400 4300
+Wire Wire Line
+	5400 4200 5750 4200
+Wire Wire Line
+	5750 4200 5750 3900
+Wire Wire Line
+	5750 3900 5400 3900
+Wire Wire Line
+	5400 3800 5550 3800
+Wire Wire Line
+	5550 3800 5550 3700
+Wire Wire Line
+	5550 3700 5400 3700
+Wire Wire Line
+	5400 4100 5550 4100
+Wire Wire Line
+	5550 4100 5550 4000
+Wire Wire Line
+	5550 4000 5400 4000
+Wire Wire Line
+	5550 4300 6100 4300
+Wire Wire Line
+	6100 4300 6100 4000
+Wire Wire Line
+	6100 4000 6200 4000
+Connection ~ 5550 4300
+Wire Wire Line
+	5750 3900 6200 3900
+Connection ~ 5750 3900
+Wire Wire Line
+	5550 4000 6000 4000
+Wire Wire Line
+	6000 4000 6000 3800
+Wire Wire Line
+	6000 3800 6200 3800
+Connection ~ 5550 4000
+Wire Wire Line
+	5550 3700 6200 3700
+Connection ~ 5550 3700
+$Comp
+L Connector:RJ45 J1
+U 1 1 614910C0
+P 5000 4100
+F 0 "J1" H 5057 4767 50  0000 C CNN
+F 1 "RJ45" H 5057 4676 50  0000 C CNN
+F 2 "Tales:RJ45_Amphenol_RJHSE5080" V 5000 4125 50  0001 C CNN
+F 3 "~" V 5000 4125 50  0001 C CNN
+F 4 "~" H 5000 4100 50  0001 C CNN "Case"
+F 5 "Amphenol" H 5000 4100 50  0001 C CNN "Mfr"
+F 6 "RJHSE-5080" H 5000 4100 50  0001 C CNN "Mfr PN"
+F 7 "Mouser" H 5000 4100 50  0001 C CNN "Vendor"
+F 8 "523-RJHSE-5080" H 5000 4100 50  0001 C CNN "Vendor PN"
+F 9 "~" H 5000 4100 50  0001 C CNN "JLCPCB BOM"
+F 10 "~" H 5000 4100 50  0001 C CNN "LCSC Part"
+	1    5000 4100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
