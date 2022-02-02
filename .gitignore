@@ -24,5 +24,5 @@ _autosave-*
 *.xml
 *.csv
 
-# Mac OS .DS_Share
-.DS_Share
+# Mac OS .DS_Store
+.DS_Store
