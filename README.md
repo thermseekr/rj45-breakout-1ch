@@ -2,7 +2,9 @@
 
 Breakout board for 1x RJ45 connector.
 
-Used to connect one wall light switch box with up to 3 switches to an automation system. The image below illustrates how the connections are made.
+Connects one wall light switch box with up to 3 switches to an automation system. The image below illustrates how the connections are made.
+
+Check also the board that goes installed in the automation cabinet here.
 
 ![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/Conections.png "Switch connections")
 
