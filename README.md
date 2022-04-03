@@ -8,4 +8,4 @@ Also check [here](https://github.com/thermseekr/RJ45-breakout-8ch) the board tha
 
 ![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/Conections.png "Switch connections")
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/RJ45-breakout_1ch-V1.png "RJ45-breakout-1ch")
+![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/RJ45-breakout-1ch-V1.png "RJ45-breakout-1ch")
