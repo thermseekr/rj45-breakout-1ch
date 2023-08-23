@@ -329,7 +329,7 @@
     (property "Value" "RJ45" (at 124.46 104.775 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Tales:RJ45_Amphenol_RJHSE5080" (at 133.35 102.235 90)
+    (property "Footprint" "Tales:RJ45_CKMTW_R-RJ45R08P-A004" (at 133.35 102.235 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 133.35 102.235 90)
