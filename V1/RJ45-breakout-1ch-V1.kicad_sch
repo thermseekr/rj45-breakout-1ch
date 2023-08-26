@@ -379,7 +379,7 @@
     (property "Reference" "J2" (at 165.1 99.695 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SWITCHES" (at 165.1 102.235 0)
+    (property "Value" "1x4P 5,08 SCREW" (at 165.1 102.235 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Tales:TerminalBlock_Dibo_DB128L-5.08-4P_1x04_P5.08mm_Horizontal" (at 162.56 99.06 0)
