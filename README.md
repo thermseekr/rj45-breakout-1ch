@@ -6,6 +6,6 @@ This board is mounted inside a wall switch box and can be connected to up to 3 s
 
 Also check [here](https://github.com/thermseekr/RJ45-breakout-8ch) the board that connects the other end of the cables inside the automation cabinet.
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/Conections.png "Switch connections")
+![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/conections.png "Switch connections")
 
 ![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/rj45-breakout-1ch-v1.png "RJ45-BREAKOUT-1CH")
