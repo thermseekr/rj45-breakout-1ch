@@ -1,4 +1,4 @@
-# RJ45-breakout-1ch
+# RJ45-BREAKOUT-1CH
 
 Breakout board for 1x RJ45 connector.
 
@@ -8,4 +8,4 @@ Also check [here](https://github.com/thermseekr/RJ45-breakout-8ch) the board tha
 
 ![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/Conections.png "Switch connections")
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-1ch/blob/main/V1/RJ45-breakout-1ch-V1.png "RJ45-breakout-1ch")
+![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/rj45-breakout-1ch-v1.png "RJ45-BREAKOUT-1CH")
