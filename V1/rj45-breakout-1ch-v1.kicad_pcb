@@ -137,7 +137,7 @@
 		(at 133.5 114)
 		(property "Reference" "J2"
 			(at 17.5 -6 0)
-			(layer "F.SilkS")
+			(layer "Cmts.User")
 			(uuid "1e05331a-0db9-4910-bf1a-40290b8576d7")
 			(effects
 				(font
@@ -181,7 +181,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -277,8 +277,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bb8a2d59-1b50-4794-9427-649f5a4c6412")
-		(sheetfile "RJ45-breakout-1ch-V1.kicad_sch")
+		(sheetname "Root")
+		(sheetfile "rj45-breakout-1ch-v1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 5)
@@ -974,7 +976,7 @@
 		(tags "RJ45 8p8c ethernet cat5")
 		(property "Reference" "J1"
 			(at -11 -8.1 0)
-			(layer "F.SilkS")
+			(layer "Cmts.User")
 			(uuid "cf96e836-0ae3-4aea-8c33-d1c3d06cfb02")
 			(effects
 				(font
@@ -994,7 +996,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45R08P-A004"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -1018,7 +1020,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -1114,8 +1116,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-0000614910c0")
-		(sheetfile "RJ45-breakout-1ch-V1.kicad_sch")
+		(sheetname "Root")
+		(sheetfile "rj45-breakout-1ch-v1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.953 0.492)
