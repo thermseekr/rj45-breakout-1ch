@@ -5,7 +5,7 @@
 	(uuid "78f88cf6-751c-4e9b-ae75-fb8b6d44ff39")
 	(paper "A4")
 	(title_block
-		(title "1 channel RJ45 breakout board")
+		(title "1 Channel RJ45 Breakout Board")
 		(date "2022-04-01")
 		(rev "V1")
 	)

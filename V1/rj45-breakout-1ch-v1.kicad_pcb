@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "1 channel RJ45 breakout board")
+		(title "1 Channel RJ45 Breakout Board")
 		(date "2022-04-01")
 		(rev "V1")
 	)
