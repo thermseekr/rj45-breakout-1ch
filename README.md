@@ -9,3 +9,8 @@ Also check [here](https://github.com/thermseekr/RJ45-breakout-8ch) the board tha
 ![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/conections.png "Switch connections")
 
 ![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/rj45-breakout-1ch-v1.png "RJ45-BREAKOUT-1CH")
+
+## LICENSE
+
+This project is licensed under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+Commercial use is not permitted without prior written consent. See the [LICENSE.txt](LICENSE.txt) file for details.
