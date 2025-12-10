@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "78f88cf6-751c-4e9b-ae75-fb8b6d44ff39")
 	(paper "A4")
 	(title_block
@@ -83,55 +83,7 @@
 			(symbol "RJ45_0_1"
 				(polyline
 					(pts
-						(xy -5.08 4.445) (xy -6.35 4.445)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 5.715) (xy -6.35 5.715)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -6.35 -3.175) (xy -5.08 -3.175) (xy -5.08 -3.175)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -6.35 -1.905) (xy -5.08 -1.905) (xy -5.08 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -6.35 -0.635) (xy -5.08 -0.635) (xy -5.08 -0.635)
+						(xy -6.35 1.905) (xy -5.08 1.905) (xy -5.08 1.905)
 					)
 					(stroke
 						(width 0)
@@ -155,7 +107,7 @@
 				)
 				(polyline
 					(pts
-						(xy -6.35 1.905) (xy -5.08 1.905) (xy -5.08 1.905)
+						(xy -6.35 -0.635) (xy -5.08 -0.635) (xy -5.08 -0.635)
 					)
 					(stroke
 						(width 0)
@@ -167,7 +119,19 @@
 				)
 				(polyline
 					(pts
-						(xy -5.08 3.175) (xy -6.35 3.175) (xy -6.35 3.175)
+						(xy -6.35 -1.905) (xy -5.08 -1.905) (xy -5.08 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 -3.175) (xy -5.08 -3.175) (xy -5.08 -3.175)
 					)
 					(stroke
 						(width 0)
@@ -191,6 +155,42 @@
 						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy -5.08 5.715) (xy -6.35 5.715)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 4.445) (xy -6.35 4.445)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 3.175) (xy -6.35 3.175) (xy -6.35 3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(rectangle
 					(start 7.62 12.7)
 					(end -7.62 -10.16)
@@ -205,7 +205,7 @@
 			)
 			(symbol "RJ45_1_1"
 				(pin passive line
-					(at 10.16 -7.62 180)
+					(at 10.16 10.16 180)
 					(length 2.54)
 					(name "~"
 						(effects
@@ -214,97 +214,7 @@
 							)
 						)
 					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -331,7 +241,7 @@
 					)
 				)
 				(pin passive line
-					(at 10.16 10.16 180)
+					(at 10.16 5.08 180)
 					(length 2.54)
 					(name "~"
 						(effects
@@ -340,7 +250,97 @@
 							)
 						)
 					)
-					(number "8"
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -7.62 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -349,10 +349,13 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -419,19 +422,19 @@
 			)
 			(symbol "Conn_01x04_1_1"
 				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
 				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
+					(start -1.27 2.667)
+					(end 0 2.413)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -452,8 +455,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
+					(start -1.27 -2.413)
+					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -463,14 +466,14 @@
 					)
 				)
 				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -6.35)
+					(start -1.27 -4.953)
+					(end 0 -5.207)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
 				(pin passive line
@@ -546,7 +549,30 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "OPÇÕES RJ45 HORIZONTAL\n\nAMPHENOL RJHSE5080\nMOUSER 523-RJHSE-5080\n\nCKMTW(Shenzhen Cankemeng) R-RJ45R08P-A004\nJLCPCB C385834\n"
+		(exclude_from_sim no)
+		(at 67.31 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46ed2aa4-ac91-434f-8fbe-18216a6d3caf")
+	)
+	(text "J2 PIN 1 - 24V\nJ2 PIN 2 - SWITCH 1\nJ2 PIN 3 - SWITCH 2\nJ2 PIN 4 - SWITCH 3"
+		(exclude_from_sim no)
+		(at 187.96 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf418e86-0898-4faa-b99f-abe97f205ba2")
 	)
 	(junction
 		(at 147.32 96.52)
@@ -584,7 +610,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 99.06) (xy 157.48 99.06)
+			(xy 149.86 99.06) (xy 165.1 99.06)
 		)
 		(stroke
 			(width 0)
@@ -604,7 +630,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 104.14) (xy 157.48 104.14)
+			(xy 152.4 104.14) (xy 165.1 104.14)
 		)
 		(stroke
 			(width 0)
@@ -654,7 +680,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 101.6) (xy 157.48 101.6)
+			(xy 147.32 101.6) (xy 165.1 101.6)
 		)
 		(stroke
 			(width 0)
@@ -684,7 +710,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 96.52) (xy 157.48 96.52)
+			(xy 147.32 96.52) (xy 165.1 96.52)
 		)
 		(stroke
 			(width 0)
@@ -742,27 +768,45 @@
 		)
 		(uuid "f976e2cc-36f9-4479-a816-2c74d1d5da6f")
 	)
-	(text "OPÇÕES RJ45 HORIZONTAL\n\nAMPHENOL RJHSE5080\nMOUSER 523-RJHSE-5080\n\nCKMTW(Shenzhen Cankemeng) R-RJ45R08P-A004\nJLCPCB C385834\n"
-		(exclude_from_sim no)
-		(at 67.31 110.49 0)
+	(label "PAIR4"
+		(at 154.94 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "46ed2aa4-ac91-434f-8fbe-18216a6d3caf")
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
 	)
-	(text "J2 PIN 1 - 24V\nJ2 PIN 2 - SWITCH 1\nJ2 PIN 3 - SWITCH 2\nJ2 PIN 4 - SWITCH 3"
-		(exclude_from_sim no)
-		(at 193.04 107.95 0)
+	(label "PAIR1"
+		(at 154.94 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "cf418e86-0898-4faa-b99f-abe97f205ba2")
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
+	)
+	(label "PAIR2"
+		(at 154.94 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
+	)
+	(label "PAIR3"
+		(at 154.94 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
 	)
 	(symbol
 		(lib_id "Connector:RJ45")
@@ -918,7 +962,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 162.56 99.06 0)
+		(at 170.18 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -927,7 +971,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb8a2d59-1b50-4794-9427-649f5a4c6412")
 		(property "Reference" "J2"
-			(at 165.1 99.695 0)
+			(at 172.72 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -936,7 +980,7 @@
 			)
 		)
 		(property "Value" "1x4P 5,08 SCREW"
-			(at 165.1 102.235 0)
+			(at 172.72 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -945,7 +989,7 @@
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Dibo_DB128L-5.08-4P_1x04_P5.08mm_Horizontal"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -954,7 +998,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -963,7 +1007,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -972,7 +1016,7 @@
 			)
 		)
 		(property "Case" "~"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -981,7 +1025,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -990,7 +1034,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915641"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -999,7 +1043,7 @@
 			)
 		)
 		(property "Mfr" "DIBO"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1008,7 +1052,7 @@
 			)
 		)
 		(property "Mfr PN" "DB128V-5.08-4P-GN-S"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1017,7 +1061,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1026,7 +1070,7 @@
 			)
 		)
 		(property "Vendor PN" "C2915641"
-			(at 162.56 99.06 0)
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1060,4 +1104,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
