@@ -786,7 +786,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce66")
 	)
 	(label "PAIR2"
 		(at 154.94 99.06 0)
@@ -796,7 +796,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce67")
 	)
 	(label "PAIR3"
 		(at 154.94 101.6 0)
@@ -806,7 +806,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce65")
+		(uuid "10a1e0e4-4f64-4869-a7dc-c0a8f46bce68")
 	)
 	(symbol
 		(lib_id "Connector:RJ45")
