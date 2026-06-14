@@ -1,14 +1,14 @@
-# RJ45-BREAKOUT-1CH
+# eumesmo-brk-1ch
 
 Breakout board for 1x RJ45 connector.
 
-This board is mounted inside a wall switch box and can be connected to up to 3 switches. Pin 1 supplies the voltage, usually 24VDC, and pins 2 through 4 return the contacts status to an automation system. The image below illustrates how the connections are made.
+The board is compatible with the SP7 DIN rail system from Metaltex.
 
-Also check [here](https://github.com/thermseekr/RJ45-breakout-8ch) the board that connects the other end of the cables inside the automation cabinet.
+Also check [here](https://github.com/thermseekr/eumesmo-brk-8ch) the board that connects the other end of the cables inside the automation cabinet.
 
-![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/conections.png "Switch connections")
+![Switch connections](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V1/conections.png)
 
-![alt text](https://github.com/thermseekr/rj45-breakout-1ch/blob/main/V1/rj45-breakout-1ch-v1.png "RJ45-BREAKOUT-1CH")
+![eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V1/eumesmo-brk-1ch-v1.png)
 
 ## LICENSE
 
