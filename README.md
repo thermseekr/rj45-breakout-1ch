@@ -6,9 +6,9 @@ The board is compatible with the SP7 DIN rail system from Metaltex.
 
 Also check [here](https://github.com/thermseekr/eumesmo-brk-8ch) the board that connects the other end of the cables inside the automation cabinet.
 
-![Switch connections](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V1/conections.png)
+![Switch connections](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V2/conections.png)
 
-![eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V1/eumesmo-brk-1ch-v1.png)
+![eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch/blob/main/V2/eumesmo-brk-1ch-v2.png)
 
 ## LICENSE
 
