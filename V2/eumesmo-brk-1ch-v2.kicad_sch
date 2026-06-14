@@ -5,9 +5,9 @@
 	(uuid "78f88cf6-751c-4e9b-ae75-fb8b6d44ff39")
 	(paper "A4")
 	(title_block
-		(title "1 Channel RJ45 Breakout Board")
-		(date "2022-04-01")
-		(rev "V1")
+		(title "eumesmo 1 Channel RJ45 Breakout Board")
+		(date "2026-06-14")
+		(rev "V2.0")
 	)
 	(lib_symbols
 		(symbol "Connector:RJ45"
@@ -1010,7 +1010,7 @@
 			(uuid "17adc8c0-c792-4780-aab1-71d31733c779")
 		)
 		(instances
-			(project "eumesmo-brk-1ch-v1"
+			(project "eumesmo-brk-1ch-v2"
 				(path "/78f88cf6-751c-4e9b-ae75-fb8b6d44ff39"
 					(reference "J1")
 					(unit 1)
@@ -1041,7 +1041,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1x4P 5,08 SCREW"
+		(property "Value" "250-204"
 			(at 172.72 102.235 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1052,7 +1052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Tales:TerminalBlock_Dibo_DB128L-5.08-4P_1x04_P5.08mm_Horizontal"
+		(property "Footprint" "Tales:TerminalBlock_Wago_250-204_1x04_P3.5mm_45Degree"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -1107,7 +1107,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C2915641"
+		(property "LCSC Part" "C2765063"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -1118,7 +1118,7 @@
 				)
 			)
 		)
-		(property "Mfr" "DIBO"
+		(property "Mfr" "Wago"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -1129,7 +1129,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "DB128V-5.08-4P-GN-S"
+		(property "Mfr PN" "250-204"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -1151,7 +1151,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2915641"
+		(property "Vendor PN" "C2765063"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -1175,7 +1175,7 @@
 			(uuid "d75402f6-751e-4249-ae35-4aee5cd7e58b")
 		)
 		(instances
-			(project "eumesmo-brk-1ch-v1"
+			(project "eumesmo-brk-1ch-v2"
 				(path "/78f88cf6-751c-4e9b-ae75-fb8b6d44ff39"
 					(reference "J2")
 					(unit 1)

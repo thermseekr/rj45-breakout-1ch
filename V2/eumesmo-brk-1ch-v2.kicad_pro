@@ -280,7 +280,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V1"
+      "sch_revision": "V2.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -530,7 +530,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "eumesmo-brk-1ch-v1.kicad_pro",
+    "filename": "eumesmo-brk-1ch-v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -749,8 +749,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "eumesmo-brk-1ch-v1.kicad_sch",
-        "name": "eumesmo-brk-1ch-v1",
+        "filename": "eumesmo-brk-1ch-v2.kicad_sch",
+        "name": "eumesmo-brk-1ch-v2",
         "uuid": "78f88cf6-751c-4e9b-ae75-fb8b6d44ff39"
       }
     ],
@@ -760,7 +760,7 @@
   "sheets": [
     [
       "78f88cf6-751c-4e9b-ae75-fb8b6d44ff39",
-      "eumesmo-brk-1ch-v1"
+      "eumesmo-brk-1ch-v2"
     ]
   ],
   "text_variables": {},
