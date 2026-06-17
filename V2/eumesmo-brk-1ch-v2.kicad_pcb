@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 1 Channel RJ45 Breakout Board")
-		(date "2026-06-14")
+		(date "2026-06-17")
 		(rev "V2.0")
 	)
 	(layers
@@ -1211,7 +1211,7 @@
 		(layer "Edge.Cuts")
 		(uuid "878adb1e-2f1a-48b7-9340-5a21dcfd5f40")
 	)
-	(gr_text "V2.0 2026-06-16"
+	(gr_text "V2.0 2026-06-17"
 		(at 131.625 112 90)
 		(layer "F.SilkS")
 		(uuid "5fa65682-dec6-444f-8793-8c0e583c18ef")
