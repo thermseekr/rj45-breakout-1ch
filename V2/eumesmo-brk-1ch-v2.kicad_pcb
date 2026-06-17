@@ -1159,6 +1159,17 @@
 		)
 	)
 	(gr_rect
+		(start 130.75 106.75)
+		(end 132.5 117.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e8eb34da-03cc-4236-a236-4562f000cfb7")
+	)
+	(gr_rect
 		(start 138.5 117.75)
 		(end 148.5 119.5)
 		(stroke
@@ -1199,6 +1210,17 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "878adb1e-2f1a-48b7-9340-5a21dcfd5f40")
+	)
+	(gr_text "V2.0 2026-06-16"
+		(at 131.625 112 90)
+		(layer "F.SilkS")
+		(uuid "5fa65682-dec6-444f-8793-8c0e583c18ef")
+		(effects
+			(font
+				(size 1 0.7)
+				(thickness 0.1)
+			)
+		)
 	)
 	(gr_text "+24V"
 		(at 136.5 118.75 0)
@@ -1245,7 +1267,7 @@
 		)
 	)
 	(gr_text "eumesmo-brk-1ch-v2"
-		(at 131.5 100.5 90)
+		(at 131.5 97.75 90)
 		(layer "F.SilkS")
 		(uuid "70d53977-032b-443d-8fcc-1858308d5c95")
 		(effects
